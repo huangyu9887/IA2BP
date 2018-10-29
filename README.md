@@ -34,7 +34,8 @@
 
 ## 协作工具
 
-GitHub仓库
+ - GitHub仓库
+ - [Zotero资料库](https://www.zotero.org/groups/2247417/ia2bp_chase) 
 
 ## 碰头会
 
