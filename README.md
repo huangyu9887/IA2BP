@@ -82,7 +82,8 @@
 
 ## 计划
 
-![image](https://user-images.githubusercontent.com/24952118/47724058-da429c80-dc90-11e8-88ab-58cc64840a27.png)
+![image](https://user-images.githubusercontent.com/24952118/47724429-a451e800-dc91-11e8-9682-94b81d00e48c.png)
+
 
 ## CHAGNELOG
 
