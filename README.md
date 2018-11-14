@@ -82,11 +82,12 @@
 
 ## 计划
 
-![image](https://user-images.githubusercontent.com/24952118/47724429-a451e800-dc91-11e8-9682-94b81d00e48c.png)
+![image](https://user-images.githubusercontent.com/24952118/48456316-8d66d600-e7f9-11e8-914e-2f6ea4b70db0.png)
+
 
 
 ## CHAGNELOG
-
+- 20181114 更新计划
 - 20181030 增补计划
 - 20181029 增加角色人员定义
 - 20181028 初稿
