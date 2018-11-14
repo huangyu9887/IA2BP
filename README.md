@@ -36,6 +36,11 @@
 
  - [GitHub仓库](https://github.com/huangyu9887/IA2BP)
  - [Zotero资料库](https://www.zotero.org/groups/2247417/ia2bp_chase) 
+ 
+ 
+## Part 报告
+
+- https://github.com/huangyu9887/IA002/blob/master/ch5/RepTaskAdvanced.md
 
 ## 碰头会
 
@@ -84,9 +89,11 @@
 
 
 
+
+
 ## CHAGNELOG
 
-- 20181114 更新计划
+- 20181114 更新计划，增加 part 报告
 - 20181030 增补计划
 - 20181029 增加角色人员定义
 - 20181028 初稿
