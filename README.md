@@ -68,7 +68,7 @@
 
 - 信息整理及加工（包括输出part报告）：All
 
-- 报告整合：HHua（主），WHan（辅）
+- 报告整合：HHua,ZhangWei
 
 - 报告演讲者：ZhengWei
 
